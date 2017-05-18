@@ -1,0 +1,31 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    min-width: 320px;
+    overflow-x: auto;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+button {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+.wrapper {
+    font-size: 0;
+    text-align: center;
+    height: 100vh;
+    padding: 30px;
+    background: #148ee0;
+    box-sizing: border-box;
+}
+.wrapper:after {
+    display: inline-block;
+    vertical-align: middle;
+    content: '';
+    height: 100%;
+    width: 0;
+}
+.container {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 670px;
+    width: 100%;
+}

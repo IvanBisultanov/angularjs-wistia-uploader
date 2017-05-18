@@ -1,0 +1,11 @@
+{
+  "name": "wistia-uploader",
+  "author": {
+    "name": "Ivan Bisultanov",
+    "url": "ivanbisultanov.herokuapp.com",
+    "email": "ivanbisultanov@gmail.com"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  }
+}
